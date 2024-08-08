@@ -5,3 +5,6 @@
   width: 350px;
   margin: 5px;
 }
+.visited {
+  background-color: bisque;
+}
